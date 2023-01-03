@@ -1,0 +1,16 @@
+﻿S.NO,PATIENT,AGE,TEMPERATURE(F),SEX,JOINING DATE,CORONA,DOCTOR NAME,WEIGHT(KG)
+1,Pawan Kalyan,52,98,M,10-10-2021,N,Dr.Nayab,21
+2,Ajay,20,101,M,10-10-2021,N,Dr.Madhusudhan,31
+3,Arun,20,105,M,11-12-2021,P,Dr.Nizam,41
+4,Musaveer,19,99,M,12-10-2021,N,Dr.Madhusudhan,51
+5,Althaf,25,102,M,12-05-2021,P,Dr.Nawaz,61
+6,Priya,20,100,F,13-05-2021,P,Dr.sonu,71
+7,Riya,21,102,F,14-05-2021,P,Dr.sonu,81
+8,Nawaz,15,105,M,14-05-2021,P,Dr.Nayab,101
+9,Meera,15,105,F,14-05-2021,P,Dr.Nawaz,111
+10,Ram charan,32,100,M,14-05-2021,P,Dr.Madhusudhan,121
+11,Samantha,25,102,F,15-05-2021,N,Dr.Nayab,131
+12,Mahesh Babu,41,101,M,16-05-2021,N,Dr.Nizam,141
+13,Kajal Agarwal,35,104,F,17-05-2021,P,Dr.Nayab,151
+14,Anupama,22,103,F,20-05-2021,N,Dr.Nayab,161
+15,Srinidhi Shetty,26,105,F,21-05-2021,N,Dr.Nayab,171
